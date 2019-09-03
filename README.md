@@ -1,4 +1,5 @@
-[![Status](https://img.shields.io/badge/status-not%20passing%20initial%20tests-red.svg)](https://travis-ci.com/andremcb/_gr8Y6iq3oL6zgbyy/builds/125786065)
+[![Status](https://img.shields.io/badge/status-not%20passing%20initial%20tests-red.svg)](https://travis-ci.org/andremcb/_gr8Y6iq3oL6zgbyy/builds/580376128)
+
 
 # Instructions 
 
